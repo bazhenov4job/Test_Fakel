@@ -1,0 +1,2 @@
+Slovo1	Slovo2	Slovo3	Slovo4	Slovo5	Slovo6	Slovo7	Slovo8
+0.001	0.001	0.01	0.01	0.01	0.01	0.01	0.01
