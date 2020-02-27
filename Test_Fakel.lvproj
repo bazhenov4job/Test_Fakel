@@ -106,7 +106,6 @@
 				<Property Name="TgtF_productName" Type="Str">Task_05</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{FD9DF295-67A1-4C21-B94D-5CAA0AF071DE}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Task_05.exe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
 	</Item>
